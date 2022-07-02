@@ -1,0 +1,27 @@
+h1 {
+  font-size: 500%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 400;
+  color: antiquewhite;
+  position: absolute;
+  margin-top: 30vh;
+  width: 100%;
+  text-align: center;
+  text-shadow: 10px;
+  }
+  
+  canvas {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+  }
+   body{
+    background-color: black;
+      /* background: url(bday2.jpg);
+      background-repeat: no-repeat;
+      background-size: 1920px 1080px; */
+   }
+  /* canvas2{
+    background:#000;
+  } */
